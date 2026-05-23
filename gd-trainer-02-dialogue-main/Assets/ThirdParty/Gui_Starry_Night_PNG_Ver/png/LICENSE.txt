@@ -1,0 +1,29 @@
+Asset: Starry Night GUI
+Author: OTOJANG Games (Otoke Neko)
+
+Source:
+https://otojang.itch.io/starry-night-gui
+
+License / Terms of Use:
+Free for commercial and non-commercial use.
+
+You may:
+- Use these assets in personal and commercial projects
+- Modify and customize the assets
+- Use the assets in SFW and NSFW projects
+- Include the assets in games and visual novels
+
+You may NOT:
+- Resell the asset pack itself
+- Redistribute the original files
+- Redistribute individual assets separately
+- Claim the assets as your own work
+
+Credit is REQUIRED.
+
+Author Credit:
+Otoke Neko (@otokeneko)
+OTOJANG Games
+
+Font Used:
+Nanum Gothic
