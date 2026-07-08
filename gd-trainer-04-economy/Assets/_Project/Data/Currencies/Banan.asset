@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5577391d0b9ea0a4da370ac1a8384385, type: 3}
+  m_Name: Banan
+  m_EditorClassIdentifier: Assembly-CSharp::CurrencyData
+  currencyName: Banan
+  icon: {fileID: 7799595512646383101, guid: 2acbae56b30005745be2dfbfe4b4d084, type: 3}
+  startAmount: 1
+  maxAmount: 2
+  currentAmount: 0

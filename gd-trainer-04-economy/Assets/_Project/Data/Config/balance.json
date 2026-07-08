@@ -1,0 +1,10 @@
+{
+  "clickReward": 10,
+  "clickEnergyCost": 5,
+  "passiveIncomeAmount": 1,
+  "passiveIncomeInterval": 2,
+  "clickUpgradeCost": 100,
+  "clickUpgradeBonus": 5,
+  "factoryUpgradeCost": 250,
+  "factoryPassiveBonus": 1
+}
